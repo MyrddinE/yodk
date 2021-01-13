@@ -1,0 +1,7 @@
+:out="a" goto3
+:out+="c" goto4
+:out+="b" goto2
+:out+="d" goto5 if 1 then goto6 end
+:out+="e" goto6
+:out+="f" goto7 :out="skip this"
+:done=1 goto1

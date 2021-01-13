@@ -1,0 +1,2 @@
+if :state!=1 then goto1 end
+:out+="pong " :state=0 :done=1 goto1

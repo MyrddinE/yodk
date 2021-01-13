@@ -1,0 +1,2 @@
+a++ :timeok=a :absok=1 if 1 then :absinifok=1 end :sqrtok=1 :done=1
+a++ goto1

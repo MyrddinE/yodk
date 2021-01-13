@@ -1,0 +1,2 @@
+:name="Peter" :out="Hello world and "+:name b=123 :sum=(b+100)%256
+:bar="Hello,"+(" "+:name)+(b+60)%256 :done=1 goto1

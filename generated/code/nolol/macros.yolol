@@ -1,0 +1,5 @@
+:out1="Hello"
+if b++ >=5 then goto3 end :out1+="." goto2
+:out1+="world" :out2="Hello"
+if c++ >=5 then goto5 end :out2+="_" goto4
+:out2+="you" d="foo" :out3=e :out4=d :done=1 goto1

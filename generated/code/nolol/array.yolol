@@ -1,0 +1,8 @@
+:o="start> is at line: 2"
+goto2+:a
+if :m then b=:d else :d=b end :a=0 goto2
+if :m then c=:d else :d=c end :a=0 goto2
+if :m then d=:d else :d=d end :a=0 goto2
+if :m then e=:d else :d=e end :a=0 goto2
+if :m then f=:d else :d=f end :a=0 goto2
+if :m then g=:d else :d=g end :a=0 goto2

@@ -1,0 +1,3 @@
+:hello="hello "
+if b++ >=10 then goto3 end :hello+="." goto2
+:hello+=" daniel" :done=1 goto1

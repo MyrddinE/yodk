@@ -1,0 +1,3 @@
+if :out==0 then :out="" end
+if :state!=0 then goto2 end
+:out+="ping " :counter++ :state=1 goto1

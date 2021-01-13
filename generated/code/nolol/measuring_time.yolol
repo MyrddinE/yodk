@@ -1,0 +1,5 @@
+a++ :door="open" b=a+10 c=a
+a++ if a<b then goto2 end :door="closed" d=a-c
+a++ :out="door closed after "+d+" cycles" :done=1
+a++ if a<b then goto4 end :door="closed" d=a-c
+a++ goto1

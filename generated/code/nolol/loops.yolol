@@ -1,0 +1,7 @@
+:out=""
+if b>5 then goto7 end
+if c>5 then goto6 end
+if c==0 or b==0 or c==5 or b==5 then :out+="X" else :out+="0" end c++ 
+goto3
+c=0 b++ :out+="\n" goto2
+:done=1 goto1

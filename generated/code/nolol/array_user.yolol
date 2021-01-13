@@ -1,0 +1,8 @@
+if ++b>=5 then goto4 end :m=1 :d=b*2 :a=b
+if :a then goto2 end
+goto1
+:sum=""
+if ++c>=5 then goto8 end :m=0 :a=c
+if :a then goto6 end
+d=:d :sum+=d+"," goto5
+:done=1 goto1

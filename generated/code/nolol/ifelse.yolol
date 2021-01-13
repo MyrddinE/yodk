@@ -1,0 +1,8 @@
+if :day=="monday" then :msg="fuck" goto8 end
+if :day=="tuesday" then :msg="still stupid" goto8 end
+if :day!="wednesday" then goto5 end
+:msg="half time!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" goto8
+if :day=="thursday" then :msg="almost..." goto8 end
+if :day=="friday" then :msg="yay" goto8 end :msg="Weekend!!!"
+if :day=="saturday" then :msg+=" PARTY!" else :msg+=" is over :(" end
+b=1 if 1 then :foo=1 else :foo=2 end c=2 :other="done" :done=1 goto1

@@ -1,0 +1,1 @@
+if b++ >=10 then goto1 end :hello+="." goto1
